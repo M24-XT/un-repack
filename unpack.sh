@@ -4,7 +4,7 @@
 #Unpack Repack Boot.img By M24-XT 
 #binary by NamakuHendra : https://github.com/NamakuHendra/mkbootimg-unpackbootimg_android
 #Thanks !
-#v1.0-1
+#v1.0-3
 #Warna
 W='\033[1;37m'
 B='\033[1;34m'
@@ -57,7 +57,7 @@ main(){
 	sleep 0.1
 	echo $Y 
         echo $W ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-	echo $G "v1.0-0"
+	echo $G "v1.0-3"
 	echo ""
 	echo $G " 1 > Unpack Boot.img		2 > Repack Boot.img (Update selanjutnya) "
 	sleep 0.1
